@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Rsa/Rsa.csproj" Id="f2407c0c-833b-4169-b89d-2164ce34ea49" />
+  <Project Path="UnitTestProject2/UnitTestProject2.csproj" Id="ccea31da-e101-4f03-81d3-7a7bdb17b2d5" />
+</Solution>
