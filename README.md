@@ -40,6 +40,7 @@
 
 кириллицей
 специальными символами
+
 4. Encrypt_EmptyString_ThrowsArgumentException
 
 Проверяет выброс исключения ArgumentException при попытке зашифровать пустую строку.
